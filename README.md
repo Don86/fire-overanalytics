@@ -14,7 +14,25 @@ This repo will be a list of notes and long-form thoughts I have on the possible 
   3. **TravelFIRE**: level 2, plus I have about $5k per year to go travelling. 
   4. **FatFIRE**: Anything beyond. 
   
+There's a reason why this repo is called *"over-analytics"*; most of this is, admittedly, just an excuse for me to play with programming tools, methods, and analysis. The randomness and variability inherent in real data is just too huge to be able to pin down any predicted returns with sufficiently slim confidence intervals. All that really matters is:
+
+```
+Spend less than you earn – invest the surplus – avoid debt
+
+Do simply this and you’ll wind up rich.  Not just in money.
+
+- JL Collins
+```
+  
 ## Contents (to come)
 
 * Super contribution calculator
 * The psychology of FIRE
+* FIRE Simulator. 
+
+## References
+
+* JL Collins
+* Aussie firebug
+* MMM
+* Strong Money Australia
