@@ -28,7 +28,8 @@ Do simply this and you’ll wind up rich.  Not just in money.
 
 * Super contribution calculator
 * The psychology of FIRE
-* FIRE Simulator. 
+* FIRE Simulator
+* What to do after FI?
 
 ## References
 
