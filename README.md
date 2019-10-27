@@ -26,6 +26,7 @@ Do simply this and you’ll wind up rich.  Not just in money.
   
 ## Contents (to come)
 
+* My political views (and why this matters)
 * Super contribution calculator
 * The psychology of FIRE
 * FIRE Simulator
