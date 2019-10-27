@@ -29,11 +29,16 @@ Do simply this and you’ll wind up rich.  Not just in money.
 * Super contribution calculator
 * The psychology of FIRE
 * FIRE Simulator
+
+### Post-FI
+* Transitioning
+* Cashflow and risk management during FI
 * What to do after FI?
 
 ## References
 
 * JL Collins
+* Aussie HiFire
 * Aussie firebug
 * MMM
 * Strong Money Australia
