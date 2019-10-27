@@ -32,7 +32,7 @@ Do simply this and you’ll wind up rich.  Not just in money.
 * FIRE Simulator
 
 ### Post-FI
-* Transitioning
+* [Transitioning](https://github.com/Don86/fire-overanalytics/edit/master/transitioning.md)
 * Cashflow and risk management during FI
 * What to do after FI?
 
