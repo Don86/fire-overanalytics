@@ -4,7 +4,7 @@ FIRE == Financial Independence, Retire Early
 
 ## Intro
 
-This repo will be a list of notes and long-form thoughts I have on the possible portfolio paths to fire. Some notes:
+This repo will be a list of notes and long-form thoughts I have on the possible portfolio paths to fire. 
 
 * I'm based in Australia. If there's anyone outside Australia, I'll try my best to make things generalizable, but YMMV/DYOR. 
 * I don't actually care much about the RE; just the FI. Beyond FI, I'll work for fun, on my own terms. 
@@ -14,7 +14,7 @@ This repo will be a list of notes and long-form thoughts I have on the possible 
   3. **TravelFIRE**: level 2, plus I have about $5k per year to go travelling. 
   4. **FatFIRE**: Anything beyond. 
   
-There's a reason why this repo is called *"over-analytics"*; most of this is, admittedly, just an excuse for me to play with programming tools, methods, and analysis. The randomness and variability inherent in real data is just too huge to be able to pin down any predicted returns with sufficiently slim confidence intervals. All that really matters is:
+There's a reason why this repo is called *"over-analytics"*; most of this is, admittedly, just an excuse for me to play with programming tools, methods, and analysis. The stock market, or any growth asset which you choose to invest in, is just too highly variable for anyone to be able to make any kind of meaningful prediction without having massive confidence intervals ayway. All that really matters is:
 
 ```
 Spend less than you earn – invest the surplus – avoid debt
