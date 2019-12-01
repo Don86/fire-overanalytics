@@ -14,7 +14,7 @@ This repo will be a list of notes and long-form thoughts I have on the possible 
   3. **TravelFIRE**: level 2, plus I have about $5k per year to go travelling. 
   4. **FatFIRE**: Anything beyond. 
   
-There's a reason why this repo is called *"over-analytics"*; most of this is, admittedly, just an excuse for me to play with programming tools, methods, and analysis. The stock market, or any growth asset which you choose to invest in, is just too highly variable for anyone to be able to make any kind of meaningful prediction without having massive confidence intervals ayway. All that really matters is:
+There's a reason why this repo is called *"over-analytics"*; most of this is, admittedly, just an excuse for me to play with programming tools, methods, and analysis. The stock market, or any growth asset which you choose to invest in, is just too highly variable for anyone to be able to make any kind of meaningful prediction without having massive confidence intervals ayway. There's a quote by Paul Krugman: *"All the statistical sophistication in the world could not allow me to predict your phone number."*. All that really matters is:
 
 ```
 Spend less than you earn – invest the surplus – avoid debt
