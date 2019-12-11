@@ -33,6 +33,7 @@ Overall, though, if you just follow the JL Collins quote, you'll be all right.
 * My political views (and why this matters)
 * Super contribution calculator
 * The psychology of FIRE
+* The psychology of spending/saving
 * FIRE Simulator
 
 ### Post-FI
